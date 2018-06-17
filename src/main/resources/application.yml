@@ -1,0 +1,16 @@
+#======================================
+#Server setting
+#======================================
+server:
+  port: 8080
+
+#=================================================
+#Paypal API credentials ie Client ID and Secret Key
+#==================================================
+paypal:
+  mode: sandbox
+  client:
+    clientId: xxxxxxxxxxxxxxxxxxYOUR_CLIENT_IDxxxxxxxxxxxxxxxxxxxxx
+    clientSecret: xxxxxxxxxxxxxxxxxxYOUR_CLIENT_SECRETxxxxxxxxxxxxx
+
+
